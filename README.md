@@ -1,6 +1,6 @@
 <img src="https://miro.medium.com/max/2600/1*FVtCyRdJ6KOr4YswTtwMeA.jpeg" alt="LinkedIn"></a>
 
-<h1 align="center">Hi 👋, I'm altaf hussain</h1>
+<h1 align="center">Hi 👋, I'm Altaf hussain</h1>
 <h3 align="center">A passionate MERN developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altafhussain786&label=Profile%20views&color=0e75b6&style=flat" alt="altafhussain786" /> </p>
