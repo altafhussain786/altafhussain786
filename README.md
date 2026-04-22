@@ -1,210 +1,234 @@
-<!-- MATRIX RAIN HEADER -->
+<!-- ████████████████████████████████████████████ -->
+<!--     3D HOLOGRAPHIC CYBERPUNK GITHUB README   -->
+<!-- ████████████████████████████████████████████ -->
+
+<!-- BOOT SEQUENCE TYPING -->
 <div align="center">
-
-```
-█████╗ ██╗  ████████╗ █████╗ ███████╗    ██╗  ██╗██╗   ██╗███████╗███████╗ █████╗ ██╗███╗   ██╗
-██╔══██╗██║  ╚══██╔══╝██╔══██╗██╔════╝    ██║  ██║██║   ██║██╔════╝██╔════╝██╔══██╗██║████╗  ██║
-███████║██║     ██║   ███████║█████╗      ███████║██║   ██║███████╗███████╗███████║██║██╔██╗ ██║
-██╔══██║██║     ██║   ██╔══██║██╔══╝      ██╔══██║██║   ██║╚════██║╚════██║██╔══██║██║██║╚██╗██║
-██║  ██║███████╗██║   ██║  ██║██║         ██║  ██║╚██████╔╝███████║███████║██║  ██║██║██║ ╚████║
-╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝  ╚═╝╚═╝         ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
-```
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=13&duration=1800&pause=400&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+profile...;Loading+modules...;%5BROOT%40ALTAF+%7E%5D+%24+sudo+whoami;%3E+ACCESS+GRANTED+%3C" alt="Boot sequence" />
 </div>
 
-<!-- ANIMATED TYPING HEADER -->
+<!-- 3D GRADIENT WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=ALTAF%20HUSSAIN&fontSize=70&fontColor=00ffff&animation=fadeIn&fontAlignY=55&desc=⬡+MERN+STACK+DEVELOPER+⬡&descAlignY=78&descAlign=50&descSize=18&descColor=39ff14" width="100%"/>
+
+<!-- ANIMATED GRADIENT TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%5BROOT%40ALTAF%5D+%24+whoami;Full+Stack+%7C+MERN+Developer;Cloud+%7C+React+Native+%7C+Node.js;Building+the+future%2C+one+commit+at+a+time...;%3E%3E+SYSTEM+ONLINE+%3C%3C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=750&lines=🔷+Full+Stack+MERN+Developer+🔷;🟣+React+%7C+Node.js+%7C+MongoDB+%7C+Cloud+🟣;🔴+Building+The+Future%2C+One+Commit+At+A+Time+🔴;🟢+SYSTEM+STATUS%3A+ONLINE+%26+UNSTOPPABLE+🟢" alt="Typing SVG" />
 </div>
+
+<br/>
+
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<!-- HACKER TERMINAL STYLE BIO -->
+<!-- SYSTEM TERMINAL -->
 <div align="center">
 
-```bash
-┌──────────────────────────────────────────────────────────────────┐
-│                    [ SYSTEM IDENTIFICATION ]                      │
-├──────────────────────────────────────────────────────────────────┤
-│  USER     : Altaf Hussain                                        │
-│  ROLE     : MERN Stack Developer  🚀                             │
-│  STATUS   : Currently working on → MERN Projects                 │
-│  LEARNING : Cloud Computing ☁️                                   │
-│  LOCATION : Online & Operational  🌐                             │
-│  CONTACT  : altafhussainhussain09@gmail.com  📡                  │
-│  MISSION  : Building scalable, powerful web applications         │
-└──────────────────────────────────────────────────────────────────┘
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  ░▒▓█  S Y S T E M   I D E N T I F I C A T I O N  █▓▒░            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   ▸ NAME      ══► Altaf Hussain                                      ║
+║   ▸ CODENAME  ══► @altafhussain786                                   ║
+║   ▸ CLASS     ══► ⬡ MERN Stack Developer                             ║
+║   ▸ UPTIME    ══► Currently working on → MERN Projects 🚀            ║
+║   ▸ DOWNLOAD  ══► Cloud Computing Skills ☁️  [▓▓▓▓▓░░░] 60%         ║
+║   ▸ SIGNAL    ══► altafhussainhussain09@gmail.com  📡                ║
+║   ▸ PROTOCOL  ══► React • React Native • Node.js • MongoDB           ║
+║   ▸ STATUS    ══► [ ● ONLINE ] [ ▶ BUILDING ] [ ⚡ ACTIVE ]          ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
----
-
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
+<!-- SOCIAL BADGES -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=altafhussain786&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
-[![Twitter](https://img.shields.io/badge/Twitter-%2300ff41?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/altafhussainru)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300ff41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/altaf-hussain-816745173/)
-[![Instagram](https://img.shields.io/badge/Instagram-%2300ff41?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/altaf.hussain242/)
+![Profile Views](https://komarev.com/ghpvc/?username=altafhussain786&color=blueviolet&style=for-the-badge&label=👁️+PROFILE+VIEWS)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/𝕏_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/altafhussainru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/altaf-hussain-816745173/)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/altaf.hussain242/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:altafhussainhussain09@gmail.com)
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-<!-- ABOUT ME TERMINAL -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> `$ cat about_me.txt`
+## 🧬 `$ cat about_me.json`
 
 ```javascript
-const altafHussain = {
-  name        : "Altaf Hussain",
-  title       : "MERN Stack Developer",
-  currentWork : "Building powerful MERN applications 🔭",
-  learning    : "Cloud Computing ☁️",
-  askMeAbout  : ["React", "React Native", "Node.js", "MongoDB", "Express"],
-  contact     : "altafhussainhussain09@gmail.com",
-  
-  stack: {
-    frontend  : ["React.js", "React Native", "HTML5", "CSS3", "Bootstrap"],
-    backend   : ["Node.js", "Express.js"],
-    database  : ["MongoDB"],
-    devOps    : ["Docker", "Kubernetes", "Heroku", "Firebase"],
-    tools     : ["Git", "Figma", "Linux", "Babel"],
-    languages : ["JavaScript", "C#"],
-    AI_ML     : ["TensorFlow"]
+{
+  "identity": {
+    "name"     : "Altaf Hussain",
+    "alias"    : "altafhussain786",
+    "role"     : "⬡ MERN Stack Developer",
+    "mode"     : "🔴 ALWAYS BUILDING"
   },
-
-  currentStatus : ">> ONLINE & CODING <<",
-  funFact       : "I debug with console.log and I'm proud of it 😄"
-};
+  "current_ops": {
+    "working_on" : "MERN Stack Projects 🔭",
+    "learning"   : "Cloud Computing ☁️",
+    "open_to"    : "Collaborations & New Projects 🤝"
+  },
+  "arsenal": {
+    "frontend"   : ["⚛️  React.js", "📱 React Native", "🌐 HTML5/CSS3", "🅱️  Bootstrap"],
+    "backend"    : ["🟢 Node.js", "⚡ Express.js"],
+    "database"   : ["🍃 MongoDB", "🔥 Firebase"],
+    "devOps"     : ["🐳 Docker", "☸️  Kubernetes", "☁️  Heroku"],
+    "tools"      : ["🔧 Git", "🎨 Figma", "🐧 Linux", "📦 Babel"],
+    "extras"     : ["🤖 TensorFlow", "🔷 C#", "📱 Android"]
+  },
+  "contact"      : "altafhussainhussain09@gmail.com",
+  "fun_fact"     : "I debug with console.log() and I'm proud of it! 😄",
+  "status"       : ">> SYSTEM ONLINE — 24/7 << ⚡"
+}
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<!-- SKILLS SECTION -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> `$ ls -la skills/`
+## ⚡ `$ ./skill_scan --verbose`
 
-<!-- FRONTEND -->
-### 🖥️ Frontend
-<div align="left">
+<div align="center">
 
-![React](https://img.shields.io/badge/React-%2300ff41?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-%2300ff41?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%2300ff41?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-%2300ff41?style=for-the-badge&logo=css3&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%2300ff41?style=for-the-badge&logo=bootstrap&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-%2300ff41?style=for-the-badge&logo=javascript&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-%2300ff41?style=for-the-badge&logo=babel&logoColor=black)
+| Skill | Proficiency | Level |
+|:------|:-----------:|:-----:|
+| ⚛️ React / React Native | ![90%](https://progress-bar.xyz/90/?scale=100&title=React&width=280&color=61DAFB&suffix=%) | `Expert` |
+| 🟢 Node.js / Express | ![88%](https://progress-bar.xyz/88/?scale=100&title=Node.js&width=280&color=68A063&suffix=%) | `Expert` |
+| 🍃 MongoDB | ![82%](https://progress-bar.xyz/82/?scale=100&title=MongoDB&width=280&color=4DB33D&suffix=%) | `Advanced` |
+| 🌐 HTML5 / CSS3 | ![92%](https://progress-bar.xyz/92/?scale=100&title=HTML%2FCSS&width=280&color=E34F26&suffix=%) | `Expert` |
+| 🐳 Docker / Kubernetes | ![65%](https://progress-bar.xyz/65/?scale=100&title=DevOps&width=280&color=2496ED&suffix=%) | `Intermediate` |
+| ☁️ Cloud Computing | ![55%](https://progress-bar.xyz/55/?scale=100&title=Cloud&width=280&color=FF9900&suffix=%) | `Learning 📈` |
+
+</div>
+
+---
+
+## 🛠️ `$ ls -la tech_stack/`
+
+### 🌐 Frontend
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 
 </div>
 
 ### ⚙️ Backend & Database
-<div align="left">
+<div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-%2300ff41?style=for-the-badge&logo=node.js&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-%2300ff41?style=for-the-badge&logo=express&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2300ff41?style=for-the-badge&logo=mongodb&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-%2300ff41?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
-### 🛠️ DevOps & Tools
-<div align="left">
+### 🚀 DevOps & Tools
+<div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-%2300ff41?style=for-the-badge&logo=docker&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%2300ff41?style=for-the-badge&logo=kubernetes&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%2300ff41?style=for-the-badge&logo=git&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-%2300ff41?style=for-the-badge&logo=linux&logoColor=black)
-![Heroku](https://img.shields.io/badge/Heroku-%2300ff41?style=for-the-badge&logo=heroku&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-%2300ff41?style=for-the-badge&logo=figma&logoColor=black)
-![Android](https://img.shields.io/badge/Android-%2300ff41?style=for-the-badge&logo=android&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%2300ff41?style=for-the-badge&logo=tensorflow&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-%2300ff41?style=for-the-badge&logo=csharp&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 📊 `$ git log --graph --all`
+
+<div align="center">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=altafhussain786&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=7b2fff&title_color=00ffff&icon_color=39ff14&text_color=00ff41&ring_color=ff2d78"/>
+  &nbsp;
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altafhussain786&layout=compact&bg_color=0d0d0d&border_color=7b2fff&title_color=00ffff&text_color=00ff41"/>
+</div>
+
+<div align="center">
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=altafhussain786&theme=tokyonight&background=0d0d0d&border=7b2fff&ring=00ffff&fire=ff2d78&currStreakNum=00ffff&sideNums=00ff41&currStreakLabel=7b2fff&sideLabels=7b2fff&dates=00ff41" />
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> `$ git log --stat`
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=altafhussain786&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=00ff41"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altafhussain786&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=00ff41"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=altafhussain786&theme=matrix&background=0d0d0d&border=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41" />
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📡 `$ ping activity.graph`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=altafhussain786&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=false&border_color=00ff41" />
-</div>
-
----
-
-<!-- TROPHY -->
 ## 🏆 `$ cat achievements.log`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=altafhussain786&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=altafhussain786&theme=tokyonight&no-frame=true&margin-w=6&column=7" />
 </div>
 
 ---
 
-<!-- CONNECT SECTION -->
-## 📡 `$ ssh connect@altaf`
+## 📡 `$ ping activity --live`
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=altafhussain786&bg_color=0d0d0d&color=00ffff&line=7b2fff&point=ff2d78&area=true&border_color=7b2fff" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🔗 `$ ssh connect@altaf.dev`
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────┐
-│           ESTABLISHING CONNECTION...             │
-│                                                  │
-│  > Scanning ports...         [✓ OPEN]            │
-│  > Handshake protocol...     [✓ SUCCESS]         │
-│  > Encryption enabled...     [✓ SECURE]          │
-│  > Welcome to Altaf's World  [✓ CONNECTED]       │
-│                                                  │
-│  Let's build something amazing together! 🚀      │
-└─────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════╗
+║    ░▒▓  ESTABLISHING SECURE CONNECTION  ▓▒░      ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  ▸ Scanning ports...........  [ ✅ OPEN  ]       ║
+║  ▸ SSH Handshake..............[ ✅ DONE  ]       ║
+║  ▸ Encrypting channel.........[ ✅ AES   ]       ║
+║  ▸ Auth verification..........[ ✅ PASS  ]       ║
+║  ▸ Loading Altaf's profile....[ ✅ READY ]       ║
+║                                                  ║
+║   Welcome! Let's BUILD something LEGENDARY 🚀    ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-%2300ff41?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/altafhussainru)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%2300ff41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/altaf-hussain-816745173/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-%2300ff41?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/altaf.hussain242/)
-[![Email](https://img.shields.io/badge/Email-Contact-%2300ff41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:altafhussainhussain09@gmail.com)
+[![Twitter](https://img.shields.io/badge/𝕏_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/altafhussainru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/altaf-hussain-816745173/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/altaf.hussain242/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:altafhussainhussain09@gmail.com)
 
 </div>
 
 ---
 
-<!-- FOOTER -->
+<!-- SNAKE CONTRIBUTION -->
+<div align="center">
+  <img src="https://github.com/altafhussain786/altafhussain786/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+---
+
+<!-- 3D GRADIENT WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=130&section=footer&text=BYE%20THE%20CODE&fontSize=32&fontColor=00ffff&animation=twinkling&fontAlignY=65&desc=MERN+Developer+%7C+Always+Building+%7C+Never+Stopping&descAlignY=85&descAlign=50&descSize=13&descColor=39ff14" width="100%"/>
+
 <div align="center">
 
-```
-██████╗ ██╗   ██╗███████╗     ████████╗██╗  ██╗███████╗
-██╔══██╗╚██╗ ██╔╝██╔════╝     ╚══██╔══╝██║  ██║██╔════╝
-██████╔╝ ╚████╔╝ █████╗          ██║   ███████║█████╗  
-██╔══██╗  ╚██╔╝  ██╔══╝          ██║   ██╔══██║██╔══╝  
-██████╔╝   ██║   ███████╗        ██║   ██║  ██║███████╗
-╚═════╝    ╚═╝   ╚══════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝
-                                                         
-           ██████╗ ██████╗ ██████╗ ███████╗             
-           ██╔════╝██╔═══██╗██╔══██╗██╔════╝             
-           ██║     ██║   ██║██║  ██║█████╗               
-           ██║     ██║   ██║██║  ██║██╔══╝               
-           ╚██████╗╚██████╔╝██████╔╝███████╗             
-            ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝             
-```
-
-![Snake animation](https://github.com/altafhussain786/altafhussain786/blob/output/github-contribution-grid-snake-dark.svg)
-
-**`>> SYSTEM UPTIME: 24/7 | MODE: BUILD | STATUS: UNSTOPPABLE <<`**
+![Made with](https://img.shields.io/badge/Made_with-❤️_&_☕-ff2d78?style=for-the-badge)
+![Code](https://img.shields.io/badge/CODE-IS_ART-7b2fff?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-UNSTOPPABLE-00ffff?style=for-the-badge)
 
 </div>
